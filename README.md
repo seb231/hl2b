@@ -18,7 +18,7 @@ This project is a follow up to my original aim of building an app to recommend v
 3. Create database of titles with useful data from _2_ (How big will this be? Where will it be stored? Locally?)
 4. Create some summary stats and plots
 5. Create program for updating or rebuilding the database from the website (Running on AWS?)
-6. Search database with a title (i.e. not an ID number)
+6. Search database with a title (i.e. not an ID number) ([this](https://www.somebits.com/~nelson/pandas-multiindex-slice-demo.html) may help)
 7. Do some title cluster analysis
 8. Long term goal 1: Predict a games playtime based on some useful variables (genre, dev, publisher
 9. Long term goal 2: Would it be possible to input a username and generate a short list of recommended games based on a user's library and their playtimes?
