@@ -13,11 +13,11 @@ Currently I am planning on developing all of this open source, at least initiall
 This project is a follow up to my original aim of building an app to recommend video games through the, now essentially defunct, Steam API, details of which can be found [here](https://github.com/seb231/steamie.window).
 
 ## Tasks
-1. Find *all* titles
-2. What data can be collected from a title
-3. Create database of titles with useful data from _2_
+1. ~~Find *all* titles~~
+2. ~~What data can be collected from a title~~
+3. Create database of titles with useful data from _2_ (How big will this be? Where will it be stored? Locally?)
 4. Create some summary stats and plots
-5. Create program for updating or rebuilding the database from the website
+5. Create program for updating or rebuilding the database from the website (Running on AWS?)
 6. Search database with a title (i.e. not an ID number)
 7. Do some title cluster analysis
 8. Long term goal 1: Predict a games playtime based on some useful variables (genre, dev, publisher
