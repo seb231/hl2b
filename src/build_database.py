@@ -66,7 +66,6 @@ def create_game_entry(id_no):
                   soup.find("td", text="Main + Extras"),
                   soup.find("td", text="Completionists"),
                   soup.find("td", text="All PlayStyles")]
-
     if None in valid_page:
         return pd.DataFrame()
     else:
