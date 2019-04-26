@@ -20,6 +20,7 @@ This project is a follow up to my original aim of building an app to recommend v
 7. Long term goal 1: Predict a games playtime based on some useful variables (genre, dev, publisher)
 8. Long term goal 2: Would it be possible to input a username and generate a short list of recommended games based on a user's library and their playtimes?
 9. Allow better rules for when a game does not have the all requested data (currently only recovers ~8k games)
+10. What other useful information can be gathered?
 
 ## Requirements
 - Python3
