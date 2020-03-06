@@ -2,7 +2,7 @@
 
 ##  Project Goal
 
-The project aims to build an app that can ultimately recommend games to a user based on a game they like, or even their own catalogue, based on data recovered from the website [howlongtobeat.com](www.howlongtobeat.com).
+The project aims to build an app that can ultimately recommend games to a user based on a game they like, or even their own catalogue, based on data recovered from the website [howlongtobeat.com](https://howlongtobeat.com/).
 
 I will not be attempting to access user data but rather information which is freely available on the website, although a potential long term goal is to host an app, which can recommend games to a user based on the users history, such as games played, type of games and playtimes.
 
